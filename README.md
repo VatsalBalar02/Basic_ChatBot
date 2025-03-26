@@ -68,11 +68,6 @@ print(category)  # Outputs: Resources & Networking
 - Add more detailed category handling
 - Improve model accuracy
 
-## License
-[Specify your license here]
-
-## Contributors
-[Add contributor names]
 
 ## Acknowledgments
 - Built using scikit-learn machine learning library
